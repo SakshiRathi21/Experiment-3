@@ -2,44 +2,44 @@
 
    "details": [
        {
-			"Experiment": "",     
-			"Lab": "",               
-			"Discipline": "",				 
-			"Technology": ""         
+			"Experiment": "To create an html page to explain the use of various predefined functions in a string and math object in java script",
+			"Lab": "Web Designing Lab",
+			"Discipline": "Information Technology",
+			"Technology": "Web Designing"
        }
    ],
 
    "developer": [
-       {       
-      "Developer": "",         
-      "Institute": "",         
-      "InstituteAcronym": ""   
+       {
+      "Developer": "Dr. Sakshi Rathi",
+      "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",
+      "InstituteAcronym": "KIET"
        }
    ],
 
    "contributer": [
-       {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
+       {
+			"Contributer": "Parth Dogra",
+      "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",
+			"InstituteAcronym": "KIET"
        },
 
-       {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+       {
+			"Contributer": "Nandini Jairath",
+      "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",
+			"InstituteAcronym": "KIET"
        },
 
-       {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
+       {
+			"Contributer": "Shreya Asthana",
+      "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",
+			"InstituteAcronym": "KIET"
        },
 
-       {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+       {
+			"Contributer": "Shuvam Gupta",
+      "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",
+			"InstituteAcronym": "KIET"
        }
    ]
 
