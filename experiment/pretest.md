@@ -1,4 +1,4 @@
-## <b> Pre-test
+## Pre-test
 #### Please attempt the following questions
 
 1)  Which of the following function of String object returns the characters in a string beginning at the specified location through the specified number of characters?<br>
