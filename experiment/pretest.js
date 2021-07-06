@@ -90,26 +90,36 @@
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "Which of the following function of String object returns the characters in a string beginning at the specified location through the specified number of characters?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: " substr()",                  ///// Write the option 1 inside double quotes
+        b: "slice()",                  ///// Write the option 2 inside double quotes
+        c: "split()",                  ///// Write the option 3 inside double quotes
+        d: "search()"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "a"                ///// Write the correct option inside double quotes
     },
 
     {
-     question: "This is question 2?",  ///// Write the question inside double quotes
+     question: "Which of the following function of String object creates a string to be displayed in a big font as if it were in a '<big>' tag?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "anchor()",                  ///// Write the option 1 inside double quotes
+        b: "big()",                  ///// Write the option 2 inside double quotes
+        c: "blink()",                  ///// Write the option 3 inside double quotes
+        d: "italics()"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "b"                ///// Write the correct option inside double quotes
-    },                                  ///// To add more questions, copy the section below 
+    },     
+     {
+     question: "Which of the following function of String object causes a string to be displayed in the specified size as if it were in a '<font size = 'size'>'tag?",  ///// Write the question inside double quotes
+      answers: {
+        a: "fixed()",                  ///// Write the option 1 inside double quotes
+        b: "fontsize()",                  ///// Write the option 2 inside double quotes
+        c: "fontcolor()",                  ///// Write the option 3 inside double quotes
+        d: "bold()"                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
+    },    ///// To add more questions, copy the section below 
     									                  ///// this line
 
 
